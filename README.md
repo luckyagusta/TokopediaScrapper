@@ -3,8 +3,8 @@ Brick Assignment
 Tools :
 Selenium
 
-Clone from Master Branch
-To Run Application run :
+Clone from master Branch And
+Run Application :
  - mvn spring-boot:run
 
 File Name :
