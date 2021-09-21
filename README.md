@@ -1,8 +1,9 @@
 # TokopediaScrapper
 Brick Assignment
 Tools :
--Selenium
+Selenium
 
+Clone from Master Branch
 To Run Application run :
  - mvn spring-boot:run
 
